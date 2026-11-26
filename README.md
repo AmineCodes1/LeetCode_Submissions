@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/AmineCodes1/LeetCode_Submitions/tree/master/0175-combine-two-tables) |
 | [1527-patients-with-a-condition](https://github.com/AmineCodes1/LeetCode_Submitions/tree/master/1527-patients-with-a-condition) |
 | [1789-primary-department-for-each-employee](https://github.com/AmineCodes1/LeetCode_Submitions/tree/master/1789-primary-department-for-each-employee) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AmineCodes1/LeetCode_Submitions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/AmineCodes1/LeetCode_Submitions/tree/master/3220-odd-and-even-transactions) |
 | [3475-dna-pattern-recognition](https://github.com/AmineCodes1/LeetCode_Submitions/tree/master/3475-dna-pattern-recognition) |
 | [3570-find-books-with-no-available-copies](https://github.com/AmineCodes1/LeetCode_Submitions/tree/master/3570-find-books-with-no-available-copies) |
